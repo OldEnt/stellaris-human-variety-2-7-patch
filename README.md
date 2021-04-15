@@ -1,4 +1,4 @@
-This patch updates a single file to make [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1074841707]Human Variety[/url] work in Stellaris 2.7+.
+This patch updates a single file to make [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1074841707]Human Variety[/url] work in Stellaris 3.0, 2.8+ and 2.7+.
 
 \prescripted_countries\00_top_countries.txt
 
